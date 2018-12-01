@@ -1,0 +1,17 @@
+{
+  "name": "TestAllianz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^3.1.2",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
